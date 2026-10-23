@@ -4,14 +4,32 @@ Iosys Pio制作の、VCI制作系ツール・VCI素材の配布専用リポジ�
 
 **このリポジトリは、配布物(バイナリ)の公開専用です。ソースコードは含まれていません。**
 
-## ダウンロード方法
+## ツール一覧
 
-[Releases](../../releases) から目的のツールのリリースを開き、
-**Assets** 内の `.zip` をクリックしてダウンロードしてください。
+| ツール | 内容 | 最新版 |
+|---|---|---|
+| VCITinker | Unity なしで VCI を編集(Lua スクリプト・テクスチャの差し替え、Meta 情報の編集など) | [v1.3.0](https://github.com/IosysPio/pio-VCI-tools-releases/releases/tag/VCITinker-v1.3.0) |
+| VCIOpenBodyPillow | 画像からだきまくら VCI を作成 | [v1.1.0](https://github.com/IosysPio/pio-VCI-tools-releases/releases/tag/VCIOpenBodyPillow-v1.1.0) |
+| VRMInfo | VRM ファイルに含まれる情報を表示 | [v0.0.1](https://github.com/IosysPio/pio-VCI-tools-releases/releases/tag/VRMInfo-v0.0.1) |
+| VCIPictureExporter | 画像から板状の VCI を作成(表裏別画像、15 度スナップ) | [v0.30b](https://github.com/IosysPio/pio-VCI-tools-releases/releases/tag/VCIPictureExporter-v0.30b) |
+| VCIOpenSmartPhone | 画像を画面に表示するスマートフォン VCI を作成 | [v0.6b](https://github.com/IosysPio/pio-VCI-tools-releases/releases/tag/VCIOpenSmartPhone-v0.6b) |
+| VCIOpenBadge | 画像から缶バッジ VCI を作成 | [v0.1c](https://github.com/IosysPio/pio-VCI-tools-releases/releases/tag/VCIOpenBadge-v0.1c) |
+| VCIOpenMug | 横長画像をプリントしたマグカップ VCI を作成 | [v0.3b](https://github.com/IosysPio/pio-VCI-tools-releases/releases/tag/VCIOpenMug-v0.3b) |
+| BlockLocationBuilderExt | BlockLocationBuilder 用の追加素材 | [v0.4](https://github.com/IosysPio/pio-VCI-tools-releases/releases/tag/BlockLocationBuilderExt-v0.4) |
+| pioSelfPinGenerator | 自己主張ピン VCI を作成(Pio式自己主張ピンVCIジェネレータ) | [v0.13](https://github.com/IosysPio/pio-VCI-tools-releases/releases/tag/pioSelfPinGenerator-v0.13) |
 
-各ツールの説明は告知ページをご覧ください。
+各ツールの詳しい説明は告知ページをご覧ください。
 
 - https://piolabopages.pages.dev/tools/
+
+## ダウンロード方法
+
+1. 上の表の「最新版」のリンクから、目的のツールのリリースを開きます。
+2. ページ下部の **Assets** 内にある `.zip` をクリックしてダウンロードします。
+   (`Source code` の zip / tar.gz は GitHub が自動で付けるもので、ツールは入っていません)
+3. zip を展開し、同梱の readme をご覧ください。
+
+旧版を含むすべてのリリースは [Releases](https://github.com/IosysPio/pio-VCI-tools-releases/releases) から確認できます。
 
 ## ライセンス
 
