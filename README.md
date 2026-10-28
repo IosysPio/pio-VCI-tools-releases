@@ -10,7 +10,7 @@ Iosys Pio制作の、VCI制作系ツール・VCI素材の配布専用リポジ�
 |---|---|---|
 | VCITinker | Unity なしで VCI を編集(Lua スクリプト・テクスチャの差し替え、Meta 情報の編集など) | [v1.3.0](https://github.com/IosysPio/pio-VCI-tools-releases/releases/tag/VCITinker-v1.3.0) |
 | VCIOpenBodyPillow | 画像からだきまくら VCI を作成 | [v1.1.0](https://github.com/IosysPio/pio-VCI-tools-releases/releases/tag/VCIOpenBodyPillow-v1.1.0) |
-| VRMInfo | VRM ファイルに含まれる情報を表示 | [v0.0.1](https://github.com/IosysPio/pio-VCI-tools-releases/releases/tag/VRMInfo-v0.0.1) |
+| VRMInfo | VRM ファイルの情報表示・問題点チェック・3D プレビュー・最適化保存 | [v0.0.2](https://github.com/IosysPio/pio-VCI-tools-releases/releases/tag/VRMInfo-v0.0.2) |
 | VCIPictureExporter | 画像から板状の VCI を作成(表裏別画像、15 度スナップ) | [v0.30b](https://github.com/IosysPio/pio-VCI-tools-releases/releases/tag/VCIPictureExporter-v0.30b) |
 | VCIOpenSmartPhone | 画像を画面に表示するスマートフォン VCI を作成 | [v0.6b](https://github.com/IosysPio/pio-VCI-tools-releases/releases/tag/VCIOpenSmartPhone-v0.6b) |
 | VCIOpenBadge | 画像から缶バッジ VCI を作成 | [v0.1c](https://github.com/IosysPio/pio-VCI-tools-releases/releases/tag/VCIOpenBadge-v0.1c) |
